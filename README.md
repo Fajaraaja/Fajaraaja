@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Fajaraaja<br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning ...<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Fajaraaja<br>- 👀 I’m interested in programming and ui/ux design<br>- 🌱 I’m currently learning laravel livewire<br>- 📫 How to reach me fajardwi881117@gmail.com<br>
 
 
 ## 🌐 Socials:
